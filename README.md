@@ -1,5 +1,5 @@
-# dsa-in-cpp
-# DSA Practice in C++
+
+# DSA in C++
 
 This repository contains my practice programs for **Data Structures and Algorithms (DSA)** written in **C++**.  
 I’m learning DSA as part of my university course and will be regularly pushing all my practice problems and assignments here.
@@ -9,9 +9,8 @@ I’m learning DSA as part of my university course and will be regularly pushing
 ## 📚 Topics Covered (Progress Tracker)
 I’ll mark topics as I complete them ✅
 
-- [ ] Arrays  
-- [ ] Strings  
-- [ ] Linked Lists  
+- [✅] Arrays  
+- [✅] Linked Lists  
 - [ ] Stacks & Queues  
 - [ ] Trees  
 - [ ] Graphs  
