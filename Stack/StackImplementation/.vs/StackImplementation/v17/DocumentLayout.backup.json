@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF57854-4C73-4C31-BDEA-788BC19B7BBE}|StackImplementation.vcxproj|D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF57854-4C73-4C31-BDEA-788BC19B7BBE}|StackImplementation.vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF57854-4C73-4C31-BDEA-788BC19B7BBE}|StackImplementation.vcxproj|D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\StackImplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF57854-4C73-4C31-BDEA-788BC19B7BBE}|StackImplementation.vcxproj|solutionrelative:StackImplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T06:30:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackImplementation.cpp",
+              "DocumentMoniker": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\StackImplementation.cpp",
+              "RelativeDocumentMoniker": "StackImplementation.cpp",
+              "ToolTip": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\StackImplementation\\StackImplementation.cpp",
+              "RelativeToolTip": "StackImplementation.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T06:29:00.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

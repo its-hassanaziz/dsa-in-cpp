@@ -1,0 +1,4 @@
+﻿  PostfixEvaluation.cpp
+D:\BS IT\Semester 3\Data Structures\Data Structures Lab\dsa-in-cpp\Stack\PostfixEvaluation\PostfixEvaluation.cpp(22,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BS IT\Semester 3\Data Structures\Data Structures Lab\dsa-in-cpp\Stack\PostfixEvaluation\PostfixEvaluation.cpp(48,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PostfixEvaluation.vcxproj -> D:\BS IT\Semester 3\Data Structures\Data Structures Lab\dsa-in-cpp\Stack\PostfixEvaluation\x64\Debug\PostfixEvaluation.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46DADBB9-0DA6-4D17-80D6-AF3AD4F0C66E}|PrefixEvaluation.vcxproj|D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\PrefixEvaluation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46DADBB9-0DA6-4D17-80D6-AF3AD4F0C66E}|PrefixEvaluation.vcxproj|solutionrelative:PrefixEvaluation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DADBB9-0DA6-4D17-80D6-AF3AD4F0C66E}|PrefixEvaluation.vcxproj|D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46DADBB9-0DA6-4D17-80D6-AF3AD4F0C66E}|PrefixEvaluation.vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T09:44:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrefixEvaluation.cpp",
+              "DocumentMoniker": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\PrefixEvaluation.cpp",
+              "RelativeDocumentMoniker": "PrefixEvaluation.cpp",
+              "ToolTip": "D:\\BS IT\\Semester 3\\Data Structures\\Data Structures Lab\\dsa-in-cpp\\Stack\\PrefixEvaluation\\PrefixEvaluation.cpp",
+              "RelativeToolTip": "PrefixEvaluation.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T09:44:35.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
